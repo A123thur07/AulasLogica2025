@@ -1,0 +1,11 @@
+_DECISÃO com CONDIÇÃO:
+ Cheque a previsão de tempo para sábado
+  1-Se estiver ensolarado:
+    procure um lugar aberto (como praia, praça ou zoológico)
+    utilize roupas frescas que facilite a absorção de vitaminas daquele dia( shorts e camisa)
+  2-Se estiver nublado:
+    Procure um lugar fechado (como casa, museu ou amostra de arte)
+    utilize roupas que lhe aqueça( moletom e calça)
+  3-Se estiver chuvoso
+    Procure ficar em casa se entretendo com filmes, séries ou livros
+    Utilize roupas que lhe aqueça e um cobertor

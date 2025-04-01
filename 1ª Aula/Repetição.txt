@@ -1,0 +1,28 @@
+
+
+_INSTRUÇÂO REPETIÇÃO (LOOP):
+ -Ouço o despertador
+ -Acordo
+ -Levanto da cama 
+  1-Se estiver acordado cedo(5:00):
+   Vou ao banheiro
+   ligo o chuveiro e tomo banho 
+   Escovo os dentes até eles ficarem limpos
+   coloco o uniforme
+   Passo perfume
+   Faço uma oração
+   como uma fruta
+  2-Se estiver acordado tarde(6:30):
+   Escovo os dentes
+   Coloco o uniforme
+   Passo perfume
+   Como uma fruta no caminho
+ -Vou chamar meus pais
+ -Entramos no carro
+  1-Se estiverem acordados: saimos 6:40
+  2-Se estiverem na cama: saimos 6:50
+ -E me levam a escola
+ 
+
+   
+
